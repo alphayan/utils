@@ -14,8 +14,8 @@ import (
 	"net/http"
 	"net/http/httptest"
 	"time"
-	"utils/config"
-	"utils/xcj/redis"
+	"github.com/alphayan/utils/config"
+	"github.com/alphayan/utils/xcj/redis"
 )
 
 const (
