@@ -4,7 +4,7 @@ import (
 	"log"
 	"os/exec"
 	"path/filepath"
-	"utils/config"
+	"github.com/alphayan/utils/config"
 )
 
 var (

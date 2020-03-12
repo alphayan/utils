@@ -10,7 +10,7 @@ import (
 	"os"
 	"path/filepath"
 	"strings"
-	"utils/config"
+	"github.com/alphayan/utils/config"
 )
 
 const (

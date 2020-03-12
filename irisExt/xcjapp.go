@@ -6,10 +6,10 @@ import (
 	"github.com/alphayan/iris/core/errors"
 	"github.com/alphayan/iris/middleware/logger"
 	"github.com/thoas/go-funk"
-	"utils/config"
-	"utils/handlers"
-	"utils/xcj/redis"
-	"utils/xcjswagger"
+	"github.com/alphayan/utils/config"
+	"github.com/alphayan/utils/handlers"
+	"github.com/alphayan/utils/xcj/redis"
+	"github.com/alphayan/utils/xcjswagger"
 )
 
 const (
