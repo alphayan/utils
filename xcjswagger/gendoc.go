@@ -8,15 +8,15 @@ import (
 	"path/filepath"
 	"text/template"
 	"time"
-	"github.com/alphayan/utils/config"
-	"github.com/alphayan/utils/dir"
+	"utils/config"
+	"utils/dir"
 )
 
 const (
 	SRCPKG       = "src" //源码默认放在src下边
 	PROPATH      = "./"
 	CTRPKG       = "controller" //默认扫描controller包,此处现在废弃不用
-	UtilResponse = "github.com/alphayan/utils/response"
+	UtilResponse = "utils/response"
 )
 
 // Gen presents a generate tool for swag.

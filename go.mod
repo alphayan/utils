@@ -17,7 +17,7 @@ require (
 	github.com/jinzhu/copier v0.0.0-20190924061706-b57f9002281a
 	github.com/jmank88/nuts v0.4.0 // indirect
 	github.com/json-iterator/go v1.1.9
-	github.com/alphayan/iris v1.0.0
+	github.com/alphayan/iris v1.0.1
 	github.com/kr/pretty v0.2.0 // indirect
 	github.com/mholt/archiver v2.0.0+incompatible
 	github.com/nightlyone/lockfile v1.0.0 // indirect

@@ -16,8 +16,8 @@ import (
 	"path/filepath"
 	"strings"
 	"time"
-	"github.com/alphayan/utils/config"
-	"github.com/alphayan/utils/dir"
+	"utils/config"
+	"utils/dir"
 )
 
 //设置默认路径

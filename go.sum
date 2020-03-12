@@ -13,6 +13,7 @@ github.com/PuerkitoBio/urlesc v0.0.0-20170810143723-de5bf2ad4578 h1:d+Bc7a5rLufV
 github.com/PuerkitoBio/urlesc v0.0.0-20170810143723-de5bf2ad4578/go.mod h1:uGdkoq3SwY9Y+13GIhn11/XLaGBb4BfwItxLd5jeuXE=
 github.com/ajg/form v1.5.1 h1:t9c7v8JUKu/XxOGBU0yjNpaMloxGEJhUkqFRq0ibGeU=
 github.com/ajg/form v1.5.1/go.mod h1:uL1WgH+h2mgNtvBq0339dVnzXdBETtL2LeUXaIv25UY=
+github.com/alphayan/iris v1.0.0/go.mod h1:YTHNb29kYpjKDvC2lwQRRNki8ixBvq4F6encbMRqtcI=
 github.com/alphayan/jade v0.8.1 h1:pwo4R7dvJ0yzY3AlfEdtdvcM7cMeFbo2FV7j6ml0X9w=
 github.com/alphayan/jade v0.8.1/go.mod h1:RnOOd8FSghU711FIrZCuAM84NEL6GJZvvxZ0aOm2xxA=
 github.com/alphayan/survey v1.8.9 h1:xxQMVdnXZBZ7LDAYmybjd1IJnaoCbPiAWIsaNNwPU0k=

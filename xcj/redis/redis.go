@@ -5,7 +5,7 @@ import (
 	"encoding/gob"
 	"github.com/garyburd/redigo/redis"
 	"time"
-	"github.com/alphayan/utils/config"
+	"utils/config"
 )
 
 const (
